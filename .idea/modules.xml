@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/react-api.iml" filepath="$PROJECT_DIR$/.idea/react-api.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/api.iml" filepath="$PROJECT_DIR$/.idea/api.iml" />
+>>>>>>> 146060a4834e8a10a04f6b9b65598da870e17a1b
     </modules>
   </component>
 </project>

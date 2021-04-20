@@ -2,7 +2,11 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
+<<<<<<< HEAD
 /../../../../../:\projet\projet cours\react-api\.idea/dataSources/
+=======
+/../../../../../:\Wamp\www\api\.idea/dataSources/
+>>>>>>> 146060a4834e8a10a04f6b9b65598da870e17a1b
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
